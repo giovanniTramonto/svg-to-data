@@ -4,11 +4,15 @@
   "description": "Encode svg to data src",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Johannes Abendroth",
   "license": "ISC",
   "dependencies": {
     "read-dir-files": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:giovanniTramonto/svg-to-data.git"
   }
 }
