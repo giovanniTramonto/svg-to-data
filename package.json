@@ -1,0 +1,14 @@
+{
+  "name": "svg-to-data",
+  "version": "1.0.0",
+  "description": "Encode svg to data src",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Abendroth",
+  "license": "ISC",
+  "dependencies": {
+    "read-dir-files": "^0.1.1"
+  }
+}
